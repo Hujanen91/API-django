@@ -64,7 +64,7 @@ DEBUG = 'DEV' in os.environ
 ALLOWED_HOSTS = [
     os.environ.get('ALLOWED_HOST'),
     'localhost',
-    '8000-hujanen91-apidjango-b0colaneffn.ws-eu110.gitpod.io'
+    '8000-hujanen91-apidjango-b0colaneffn.ws-eu110.gitpod.io',
     ]
 
 
