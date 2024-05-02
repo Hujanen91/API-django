@@ -66,6 +66,9 @@ ALLOWED_HOSTS = [
     os.environ.get('ALLOWED_HOST'),
     'localhost',
     '8000-hujanen91-apidjango-b0colaneffn.ws-eu110.gitpod.io',
+    'api-django-walkthrough-a704359edacf.herokuapp.com',
+    '3000-hujanen91-moments-vfbw8bq4xdp.ws-eu112.gitpod.io',
+    'hujanen91-moments-vfbw8bq4xdp.ws-eu112.gitpod.io',
     ]
 
 
